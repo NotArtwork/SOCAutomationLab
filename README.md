@@ -32,3 +32,6 @@ Drew out Lab Environment and Relationships between systems.
 Created Windows Environment and Installed Sysmon to keep track system activities.
 ![VMWareWindows](https://github.com/user-attachments/assets/280321ea-0daf-4055-bc93-62afb5208069)
 
+Configuring Ubuntu in the Cloud w/ DigitialOcean
+![SettingUpVirtualEnvironment](https://github.com/user-attachments/assets/b70273fe-1213-44ad-9fd2-529209d11880)
+
