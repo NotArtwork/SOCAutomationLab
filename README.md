@@ -39,5 +39,6 @@ Creating Firewall Rules for SSH  into Cloud Envrionments for Wazuh/TheHive Insta
 ![image](https://github.com/user-attachments/assets/0a791081-e6c9-4cfa-952c-229b2ad64c2f)
 
 SSH into Ubuntu Server & Installation of Wazuh.
-![image](https://github.com/user-attachments/assets/ea473770-089d-4cd4-b882-fafdb54980aa)
+![image](https://github.com/user-attachments/assets/7e9e7fc9-4b16-4e1e-a2e2-db5408c23ca6)
+
 
