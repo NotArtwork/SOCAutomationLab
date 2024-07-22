@@ -38,3 +38,6 @@ Configuring Ubuntu in the Cloud w/ DigitialOcean
 Creating Firewall Rules for SSH  into Cloud Envrionments for Wazuh/TheHive Installation & Configuration
 ![image](https://github.com/user-attachments/assets/0a791081-e6c9-4cfa-952c-229b2ad64c2f)
 
+SSH into Ubuntu Server & Installation of Wazuh.
+![image](https://github.com/user-attachments/assets/ea473770-089d-4cd4-b882-fafdb54980aa)
+
