@@ -35,7 +35,6 @@ Created Windows Environment and Installed Sysmon to keep track system activities
 Configuring Ubuntu in the Cloud w/ DigitialOcean
 ![SettingUpVirtualEnvironment](https://github.com/user-attachments/assets/b70273fe-1213-44ad-9fd2-529209d11880)
 
-Creating Firewall Rules/Ports for Wazuh/TheHive setup & Adminstrative SSH
+Creating Firewall Rules for SSH  into Cloud Envrionments for Wazuh/TheHive Installation & Configuration
 ![image](https://github.com/user-attachments/assets/0a791081-e6c9-4cfa-952c-229b2ad64c2f)
-
 
